@@ -1,3 +1,5 @@
+package hhh;
+
 public class baba {
     public static void main(String[] args) {
         final int a = 5, b = 1;
