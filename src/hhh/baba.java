@@ -12,7 +12,6 @@ public class baba {
                 }
                 System.out.println();
             }
-
         }
 
 
